@@ -19,6 +19,8 @@
   },
   "taxonomic_rank": "order",
   "encoding_method": "deterministic_alphabetical_sequence",
+  "encoding_scope": "major_insect_orders",
+  "encoding_note": "Optional intermediate ranks such as subclass, infraclass, and superorder are omitted to reduce token length and optimize transmission in IoT systems.",
   "data": [
     {
       "id": 1,
