@@ -1,0 +1,80 @@
+{
+  "parent": {
+    "kingdom": {
+      "id": 1,
+      "name": "Animalia"
+    },
+    "phylum": {
+      "id": 3,
+      "name": "Arthropoda"
+    },
+    "subphylum": {
+      "id": 3,
+      "name": "Hexapoda"
+    },
+    "class": {
+      "id": 2,
+      "name": "Insecta"
+    },
+    "order": {
+      "id": 2,
+      "name": "Blattodea"
+    },
+    "family": {
+      "id": 7,
+      "name": "Ectobiidae"
+    }
+  },
+  "taxonomic_rank": "genus",
+  "encoding_method": "deterministic_alphabetical_sequence",
+  "encoding_scope": "major_genera",
+  "encoding_note": "Genera are encoded sequentially in alphabetical order to support compact hierarchical GATOR token generation.",
+  "data": [
+    {
+      "id": 1,
+      "name": "Balta"
+    },
+    {
+      "id": 2,
+      "name": "Blattella"
+    },
+    {
+      "id": 3,
+      "name": "Chorisoneura"
+    },
+    {
+      "id": 4,
+      "name": "Ectobius"
+    },
+    {
+      "id": 5,
+      "name": "Ischnoptera"
+    },
+    {
+      "id": 6,
+      "name": "Loboptera"
+    },
+    {
+      "id": 7,
+      "name": "Parcoblatta"
+    },
+    {
+      "id": 8,
+      "name": "Pseudomops"
+    },
+    {
+      "id": 9,
+      "name": "Symploce"
+    }
+  ],
+  "metadata": {
+    "repository": "GATOR Taxonomy Repository",
+    "repository_version": "0.1.0",
+    "framework": "GATOR Token",
+    "compatible_databases": [
+      "NCBI Taxonomy",
+      "GBIF Backbone Taxonomy",
+      "ITIS"
+    ]
+  }
+}
