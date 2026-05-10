@@ -1,0 +1,146 @@
+{
+  "parent": {
+    "kingdom": {
+      "id": 1,
+      "name": "Animalia"
+    },
+    "phylum": {
+      "id": 3,
+      "name": "Arthropoda"
+    },
+    "subphylum": {
+      "id": 3,
+      "name": "Hexapoda"
+    },
+    "class": {
+      "id": 2,
+      "name": "Insecta"
+    }
+  },
+  "taxonomic_rank": "order",
+  "encoding_method": "deterministic_alphabetical_sequence",
+  "data": [
+    {
+      "id": 1,
+      "name": "Archaeognatha"
+    },
+    {
+      "id": 2,
+      "name": "Blattodea"
+    },
+    {
+      "id": 3,
+      "name": "Coleoptera"
+    },
+    {
+      "id": 4,
+      "name": "Dermaptera"
+    },
+    {
+      "id": 5,
+      "name": "Diptera"
+    },
+    {
+      "id": 6,
+      "name": "Embioptera"
+    },
+    {
+      "id": 7,
+      "name": "Ephemeroptera"
+    },
+    {
+      "id": 8,
+      "name": "Grylloblattodea"
+    },
+    {
+      "id": 9,
+      "name": "Hemiptera"
+    },
+    {
+      "id": 10,
+      "name": "Hymenoptera"
+    },
+    {
+      "id": 11,
+      "name": "Lepidoptera"
+    },
+    {
+      "id": 12,
+      "name": "Mantodea"
+    },
+    {
+      "id": 13,
+      "name": "Mantophasmatodea"
+    },
+    {
+      "id": 14,
+      "name": "Mecoptera"
+    },
+    {
+      "id": 15,
+      "name": "Megaloptera"
+    },
+    {
+      "id": 16,
+      "name": "Neuroptera"
+    },
+    {
+      "id": 17,
+      "name": "Odonata"
+    },
+    {
+      "id": 18,
+      "name": "Orthoptera"
+    },
+    {
+      "id": 19,
+      "name": "Phasmida"
+    },
+    {
+      "id": 20,
+      "name": "Plecoptera"
+    },
+    {
+      "id": 21,
+      "name": "Psocodea"
+    },
+    {
+      "id": 22,
+      "name": "Raphidioptera"
+    },
+    {
+      "id": 23,
+      "name": "Siphonaptera"
+    },
+    {
+      "id": 24,
+      "name": "Strepsiptera"
+    },
+    {
+      "id": 25,
+      "name": "Thysanoptera"
+    },
+    {
+      "id": 26,
+      "name": "Trichoptera"
+    },
+    {
+      "id": 27,
+      "name": "Zoraptera"
+    },
+    {
+      "id": 28,
+      "name": "Zygentoma"
+    }
+  ],
+  "metadata": {
+    "repository": "GATOR Taxonomy Repository",
+    "repository_version": "0.1.0",
+    "framework": "GATOR Token",
+    "compatible_databases": [
+      "NCBI Taxonomy",
+      "GBIF Backbone Taxonomy",
+      "ITIS"
+    ]
+  }
+}
