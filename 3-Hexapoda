@@ -1,0 +1,46 @@
+{
+  "parent": {
+    "kingdom": {
+      "id": 1,
+      "name": "Animalia"
+    },
+    "phylum": {
+      "id": 3,
+      "name": "Arthropoda"
+    },
+    "subphylum": {
+      "id": 3,
+      "name": "Hexapoda"
+    }
+  },
+  "taxonomic_rank": "class",
+  "encoding_method": "deterministic_alphabetical_sequence",
+  "data": [
+    {
+      "id": 1,
+      "name": "Collembola"
+    },
+    {
+      "id": 2,
+      "name": "Diplura"
+    },
+    {
+      "id": 3,
+      "name": "Insecta"
+    },
+    {
+      "id": 4,
+      "name": "Protura"
+    }
+  ],
+  "metadata": {
+    "repository": "GATOR Taxonomy Repository",
+    "repository_version": "0.1.0",
+    "framework": "GATOR Token",
+    "compatible_databases": [
+      "NCBI Taxonomy",
+      "GBIF Backbone Taxonomy",
+      "ITIS"
+    ]
+  }
+}
