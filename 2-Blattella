@@ -1,0 +1,64 @@
+{
+  "parent": {
+    "kingdom": {
+      "id": 1,
+      "name": "Animalia"
+    },
+    "phylum": {
+      "id": 3,
+      "name": "Arthropoda"
+    },
+    "subphylum": {
+      "id": 3,
+      "name": "Hexapoda"
+    },
+    "class": {
+      "id": 2,
+      "name": "Insecta"
+    },
+    "order": {
+      "id": 2,
+      "name": "Blattodea"
+    },
+    "family": {
+      "id": 7,
+      "name": "Ectobiidae"
+    },
+    "genus": {
+      "id": 2,
+      "name": "Blattella"
+    }
+  },
+  "taxonomic_rank": "species",
+  "encoding_method": "deterministic_alphabetical_sequence",
+  "encoding_scope": "species",
+  "encoding_note": "Species are encoded sequentially in alphabetical order to support compact hierarchical GATOR token generation.",
+  "data": [
+    {
+      "id": 1,
+      "name": "Blattella germanica"
+    },
+    {
+      "id": 2,
+      "name": "Blattella asahinai"
+    },
+    {
+      "id": 3,
+      "name": "Blattella bisignata"
+    },
+    {
+      "id": 4,
+      "name": "Blattella lituricollis"
+    }
+  ],
+  "metadata": {
+    "repository": "GATOR Taxonomy Repository",
+    "repository_version": "0.1.0",
+    "framework": "GATOR Token",
+    "compatible_databases": [
+      "NCBI Taxonomy",
+      "GBIF Backbone Taxonomy",
+      "ITIS"
+    ]
+  }
+}
