@@ -1,0 +1,161 @@
+{
+  "parent": {
+    "rank": "kingdom",
+    "id": 1,
+    "name": "Animalia"
+  },
+  "taxonomic_rank": "phylum",
+  "encoding_method": "deterministic_alphabetical_sequence",
+  "data": [
+    {
+      "id": 1,
+      "name": "Acanthocephala"
+    },
+    {
+      "id": 2,
+      "name": "Annelida"
+    },
+    {
+      "id": 3,
+      "name": "Arthropoda"
+    },
+    {
+      "id": 4,
+      "name": "Brachiopoda"
+    },
+    {
+      "id": 5,
+      "name": "Bryozoa"
+    },
+    {
+      "id": 6,
+      "name": "Chaetognatha"
+    },
+    {
+      "id": 7,
+      "name": "Chordata"
+    },
+    {
+      "id": 8,
+      "name": "Cnidaria"
+    },
+    {
+      "id": 9,
+      "name": "Ctenophora"
+    },
+    {
+      "id": 10,
+      "name": "Cycliophora"
+    },
+    {
+      "id": 11,
+      "name": "Echinodermata"
+    },
+    {
+      "id": 12,
+      "name": "Entoprocta"
+    },
+    {
+      "id": 13,
+      "name": "Gastrotricha"
+    },
+    {
+      "id": 14,
+      "name": "Gnathostomulida"
+    },
+    {
+      "id": 15,
+      "name": "Hemichordata"
+    },
+    {
+      "id": 16,
+      "name": "Kinorhyncha"
+    },
+    {
+      "id": 17,
+      "name": "Loricifera"
+    },
+    {
+      "id": 18,
+      "name": "Micrognathozoa"
+    },
+    {
+      "id": 19,
+      "name": "Mollusca"
+    },
+    {
+      "id": 20,
+      "name": "Myxozoa"
+    },
+    {
+      "id": 21,
+      "name": "Nematoda"
+    },
+    {
+      "id": 22,
+      "name": "Nematomorpha"
+    },
+    {
+      "id": 23,
+      "name": "Nemertea"
+    },
+    {
+      "id": 24,
+      "name": "Onychophora"
+    },
+    {
+      "id": 25,
+      "name": "Orthonectida"
+    },
+    {
+      "id": 26,
+      "name": "Phoronida"
+    },
+    {
+      "id": 27,
+      "name": "Placozoa"
+    },
+    {
+      "id": 28,
+      "name": "Platyhelminthes"
+    },
+    {
+      "id": 29,
+      "name": "Porifera"
+    },
+    {
+      "id": 30,
+      "name": "Priapula"
+    },
+    {
+      "id": 31,
+      "name": "Rhombozoa"
+    },
+    {
+      "id": 32,
+      "name": "Rotifera"
+    },
+    {
+      "id": 33,
+      "name": "Sipuncula"
+    },
+    {
+      "id": 34,
+      "name": "Tardigrada"
+    },
+    {
+      "id": 35,
+      "name": "Xenacoelomorpha"
+    }
+  ],
+  "metadata": {
+    "repository": "GATOR Taxonomy Repository",
+    "repository_version": "0.1.0",
+    "framework": "GATOR Token",
+    "compatible_databases": [
+      "NCBI Taxonomy",
+      "GBIF Backbone Taxonomy",
+      "ITIS"
+    ]
+  }
+}
