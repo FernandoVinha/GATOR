@@ -1,0 +1,80 @@
+{
+  "parent": {
+    "kingdom": {
+      "id": 1,
+      "name": "Animalia"
+    },
+    "phylum": {
+      "id": 3,
+      "name": "Arthropoda"
+    },
+    "subphylum": {
+      "id": 3,
+      "name": "Hexapoda"
+    },
+    "class": {
+      "id": 2,
+      "name": "Insecta"
+    },
+    "order": {
+      "id": 2,
+      "name": "Blattodea"
+    }
+  },
+  "taxonomic_rank": "family",
+  "encoding_method": "deterministic_alphabetical_sequence",
+  "encoding_scope": "major_families",
+  "encoding_note": "Families are encoded sequentially in alphabetical order to support compact hierarchical GATOR token generation.",
+  "data": [
+    {
+      "id": 1,
+      "name": "Anaplectidae"
+    },
+    {
+      "id": 2,
+      "name": "Blaberidae"
+    },
+    {
+      "id": 3,
+      "name": "Blattellidae"
+    },
+    {
+      "id": 4,
+      "name": "Blattidae"
+    },
+    {
+      "id": 5,
+      "name": "Corydiidae"
+    },
+    {
+      "id": 6,
+      "name": "Cryptocercidae"
+    },
+    {
+      "id": 7,
+      "name": "Ectobiidae"
+    },
+    {
+      "id": 8,
+      "name": "Lamproblattidae"
+    },
+    {
+      "id": 9,
+      "name": "Nocticolidae"
+    },
+    {
+      "id": 10,
+      "name": "Tryonicidae"
+    }
+  ],
+  "metadata": {
+    "repository": "GATOR Taxonomy Repository",
+    "repository_version": "0.1.0",
+    "framework": "GATOR Token",
+    "compatible_databases": [
+      "NCBI Taxonomy",
+      "GBIF Backbone Taxonomy",
+      "ITIS"
+    ]
+  }
+}
